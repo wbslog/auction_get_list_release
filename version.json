@@ -1,13 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "gvr.exe",
-  "url": "https://github.com/wbslog/auction_get_list_release/raw/main/gvr.exe",
+  "url": "https://github.com/wbslog/auction_get_list_release/raw/main/cami.exe",
   "sha256": "70704c2bccb22eb66cced5d31d7797aacb92c511af1255f922227a6c831b8ed6",
-  "size": 75616681,
-  "releaseDate": "2026-11-24",
-  "mandatory": false,
-  "notes": [
-    "대상 서비스 로그인 정보관리에 '접속 테스트' 버튼 추가 — authToken 발급 결과를 목록 하단에 표시",
-    "출품목록 수집(스트리밍 진행률/중지), 엑셀 자동 생성, 메일(SMTP) 발송, 예약 수집 포함"
-  ]
+  "size": 75616681
 }
